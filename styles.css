@@ -1,0 +1,58 @@
+body {
+    padding: 8px;
+}
+
+.page {
+    height: 400px;
+    width: 400px;
+    background-color: rgb(255, 242, 142);
+    margin: 0 auto;
+}
+
+h1, body, p,
+#home {
+    font-family: Garamond, Georgia, serif;
+}
+
+#home {
+    background-color: rgb(179, 107, 45);
+    color: white;
+    text-align: center;
+    padding: 8px;
+    margin: 0 auto;
+}
+
+.cake-head {
+    background-color: red;
+    color: white;
+}
+
+.list {
+    font-size: 20px;
+    padding: 10px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+a {
+    color: rgb(160, 94, 28);
+}
+
+.items {
+    border: 0.2rem outset;
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+    border-radius: 1rem;
+    font-weight: bold;
+    outline: 1px solid brown;
+}
+
+.choc {
+    background-color: brown;
+    color: white;
+}
+
+.eggs {
+    background-color: green;
+    color:yellow
+}
